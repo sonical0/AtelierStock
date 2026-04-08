@@ -1636,11 +1636,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStockTest/AtelierStockTest.csproj",
+      "projectUniqueName": "/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStockTest/AtelierStockTest.csproj",
       "projectName": "AtelierStockTest",
-      "projectPath": "/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStockTest/AtelierStockTest.csproj",
+      "projectPath": "/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStockTest/AtelierStockTest.csproj",
       "packagesPath": "/home/bazzite/.nuget/packages/",
-      "outputPath": "/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStockTest/obj/",
+      "outputPath": "/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStockTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/bazzite/.nuget/NuGet/NuGet.Config"
@@ -1655,8 +1655,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/AtelierStock.csproj": {
-              "projectPath": "/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/AtelierStock.csproj"
+            "/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/AtelierStock.csproj": {
+              "projectPath": "/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/AtelierStock.csproj"
             }
           }
         }

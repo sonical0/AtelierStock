@@ -1,0 +1,15 @@
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/bin/Debug/net10.0/AtelierStock
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/bin/Debug/net10.0/AtelierStock.deps.json
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/bin/Debug/net10.0/AtelierStock.runtimeconfig.json
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/bin/Debug/net10.0/AtelierStock.dll
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/bin/Debug/net10.0/AtelierStock.pdb
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/obj/Debug/net10.0/AtelierStock.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/obj/Debug/net10.0/AtelierStock.AssemblyInfoInputs.cache
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/obj/Debug/net10.0/AtelierStock.AssemblyInfo.cs
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/obj/Debug/net10.0/AtelierStock.csproj.CoreCompileInputs.cache
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/obj/Debug/net10.0/AtelierStock.sourcelink.json
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/obj/Debug/net10.0/AtelierStock.dll
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/obj/Debug/net10.0/refint/AtelierStock.dll
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/obj/Debug/net10.0/AtelierStock.pdb
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/obj/Debug/net10.0/AtelierStock.genruntimeconfig.cache
+/var/home/bazzite/Documents/GitHub/AtelierStock/AtelierStock/AtelierStock/obj/Debug/net10.0/ref/AtelierStock.dll
