@@ -52,10 +52,10 @@ namespace ShoppingCart
         /// <exception cref="System.ArgumentException">No article exists with the given product name</exception>
         public void DecreaseArticleQuantity(string productName)
         {
-            if(articles[productName].Quantity == 1)
+            if (articles[productName].Quantity == 1)
             {
                 articles.Remove(productName);
-            } 
+            }
             else
             {
                 articles[productName].Quantity--;
@@ -64,11 +64,11 @@ namespace ShoppingCart
         /// <summary>
         /// Get the total price for all the shopping cart
         /// </summary>
-        public decimal TotalPrice => articles.Values.Sum( a => a.TotalPrice );
+        public decimal TotalPrice => articles.Values.Sum(a => a.TotalPrice);
 
         /// <summary>
-        /// Check if the shopping cart is empty
+        /// Check if the shopping cart is not empty
         /// </summary>
-        public bool IsEmpty => articles.Any();
+        public bool IsNotEmpty => articles.Any();
     }
 }

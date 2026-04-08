@@ -1,0 +1,33 @@
+# Build output
+**/bin/
+**/obj/
+
+# .NET user-specific files
+*.user
+*.rsuser
+*.suo
+
+# IDE and tooling
+.vs/
+.vscode/
+
+# Test output
+TestResults/
+*.trx
+
+# Coverage output
+coverage/
+coverage.*
+*.coverage
+*.coveragexml
+
+# Generated runtime/build JSON files (already covered by bin/obj, kept explicit)
+**/*.deps.json
+**/*.runtimeconfig.json
+**/*.sourcelink.json
+**/*.nuget.dgspec.json
+**/project.assets.json
+
+# Logs and temporary files
+*.log
+*.tmp
